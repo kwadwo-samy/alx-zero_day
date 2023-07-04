@@ -1,1 +1,1 @@
-This readme is in the second directory
+Updated this readme is in the second directory
